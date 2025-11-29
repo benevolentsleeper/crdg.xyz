@@ -35,7 +35,7 @@ Getting struck by lightning five times in a public server can be a difficult tas
 
 ### Positions
 
-Positioning is a key element into how likely you are to get struck by lightning. There isn't any mandatory spot, but you are more likely able to get struck by positioning yourself on top of the diesel generator at [[Spawn]] while holding [[cardboard]]. Due to how lightning generation works, it's more likely that lightning can spawn on an anchored object, and since the diesel battery is above the [[content/Map/Spawn|Spawn]] island which are both anchored objects, it strikes more there. The reason for holding [[cardboard]] is to extend your hitbox so that if lightning strikes really close to you, it'll still strike you due to the [[cardboard]] increasing your hitbox.
+Positioning is a key element into how likely you are to get struck by lightning. There isn't any mandatory spot, but you are more likely able to get struck by positioning yourself on top of the diesel generator at [[Spawn]] while holding [[Cardboard]]. Due to how lightning generation works, it's more likely that lightning can spawn on an anchored object, and since the diesel battery is above the [[content/Map/Spawn|Spawn]] island which are both anchored objects, it strikes more there. The reason for holding [[Cardboard]] is to extend your hitbox so that if lightning strikes really close to you, it'll still strike you due to the [[Cardboard]] increasing your hitbox.
 
 > ![[Pasted image 20250924191336.png|350]]
 > 
